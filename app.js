@@ -12,5 +12,5 @@ const observer = new IntersectionObserver((entries) => {
 });
 
 
-const picElement = document.querySelectorAll('.group_inside');
+const picElement = document.querySelectorAll('.hero_section');
 picElement.forEach((el) => observer.observe(el));
