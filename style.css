@@ -192,7 +192,7 @@ align-items: flex-start;
 
     @media screen and (max-width: 768px) {
         .group{
-    margin-left: 1.8rem;
+    margin-left: 1rem;
         }
         .hero_section{
             display: grid;
